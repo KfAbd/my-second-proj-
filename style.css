@@ -5,3 +5,8 @@ h2{
 h1{
     text-align: center;
 }
+ol{
+    background-color: aqua;
+    border: 5px solid black;
+    border-radius: 12px;
+}
